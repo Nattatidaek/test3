@@ -1,0 +1,30 @@
+using System;
+					
+public class Program
+{
+	public static void Main(string[] args)
+	
+	{
+		Double = 10.22,30.22,1.02;
+		String  stat;
+		
+		Console.WriteLine("Enter your num");
+		Console.WriteLine("FindMax");
+		Console.ReadLine("30.22");
+		
+		if (Enter = FindMin)
+		{
+		Console.WriteLine("1.02");
+		}
+		
+		if (Enter = FindMean)
+		{
+			Console.WriteLine("13.82");
+		}
+		else 
+		{
+			Console.WriteLine("FindBrain");
+			Console.WriteLine("Invalid mode");
+		}
+	}
+}
